@@ -6,10 +6,6 @@
 ![](https://streak-stats.demolab.com/?user=lucasluists-ctrl&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lucasluists-ctrl&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=lucasluists-ctrl&icon=9&color=13)](https://visitcount.itsvg.in)
-
-
 
 <p align="center">
   <img src="imagens/meu projeto.jpg" width="500">
