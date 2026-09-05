@@ -2,7 +2,7 @@
 𖥔 Lucas Luis T.S  | 18 years | Brazil<br>𖥔 Currently studying computer science.<br>𖥔 Faculty activities and projects<br>𖥔Second semester<br>𖥔 HTML , PYTHON , CSS , UI, UX
 
 <p align="center">
-  <img src="imagens/meu-projeto.png" width="700">
+  <img src="imagens/meu projeto.jpg" width="700">
 </p>
 
 # 📊 GitHub Stats:
@@ -12,5 +12,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=lucasluists-ctrl&icon=9&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
