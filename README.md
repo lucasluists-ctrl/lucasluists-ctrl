@@ -1,13 +1,15 @@
 # 💫 About Me:
 𖥔 Lucas Luis T.S  | 18 years | Brazil<br>𖥔 Currently studying computer science.<br>𖥔 Faculty activities and projects<br>𖥔2* semester<br>𖥔 HTML , PYTHON , CSS , UI, UX
 
+
+<p align="center">
+  <img src="imagens/meu projeto.jpg" width="300">
+</p>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=lucasluists-ctrl&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=lucasluists-ctrl&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lucasluists-ctrl&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<p align="center">
-  <img src="imagens/meu projeto.jpg" width="500">
-</p>
 
