@@ -1,4 +1,4 @@
-# 💻☾ About Me :
+# 🔗☾ About Me :
 𖥔 Lucas Luis T.S  | 18 years | Brazil<br>𖥔 Currently studying computer science.<br>𖥔 Faculty activities and projects<br>𖥔2* semester<br>𖥔 HTML , PYTHON , CSS , JAVASCRIPT
 
 
