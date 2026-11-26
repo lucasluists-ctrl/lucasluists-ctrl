@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="imagens/meu projeto.jpg" width="500">
+  <img src="imagens/meu projeto.gif" width="500">
 </p>
 
 
